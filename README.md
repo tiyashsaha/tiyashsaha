@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tiyashsaha
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning c,c++,java
-- 💞️ I’m looking to collaborate on c++
 - 📫 How to reach me ...
 
 <!---
