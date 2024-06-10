@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @tiyashsaha
 - 👀 I’m interested in software development
-- 🌱 I’m currently coding in c,c++,java
+- 🌱 I’m currently coding in c,c++,java,html,CSS,javascript
+-    I'm an AI enthusiast
+-    Chatgpt
 - 📫 How to reach me ...
 
 <!---
