@@ -3,7 +3,7 @@
 - 🌱 I’m currently coding in c,c++,java,html,CSS,javascript
 -    I'm an AI enthusiast
 -    Chatgpt
-- 📫 How to reach me ...
+- 📫 How to reach me ... tiyashsaha50@gmail.com
 
 <!---
 tiyashsaha/tiyashsaha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
